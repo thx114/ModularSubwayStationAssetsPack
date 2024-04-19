@@ -1,40 +1,39 @@
-## Custom Asset Pack
+﻿## Modular Subway Station Assets Pack
+A modular subway station designed for underground use, featuring customizable assembly, multiple entrances/exits, and transfer capabilities.
 
-This repository is a template for creating custom asset packs for Cities: Skylines II. It depends on the [Asset Importer](https://github.com/kosch104/CS2-AssetImporter) mod to load the assets into the game.
+### Warning:
+Assets are experimental. Please back up your save file before use. Known issues include:
+- Once your save uses these roads, removing the mod may cause white textures.
 
-## Features
-- Support for Thumbnails
-- Support for Localization (Using L18N Everywhere)
+## Assets
+- Modular Subway Station
+- Modular Subway Station Upgrade - Add subway tracks (-20m)
+- Modular Subway Station Upgrade - Add subway tracks (-30m)
+- Modular Subway Station Upgrade - Add subway tracks (-40m)
+- Modular Subway Station Upgrade - Add subway tracks (-50m)
+- Subway entrance
+- Subway entrance Upgrade - Concrete upgrade
 
-## Resources for Asset Creation
-This section will include videos, knowledge bases and other resources to help you create your own assets.
+## Feature Roadmap
+- More types of subway entrances.
 
-## DISCLAIMER
+## Localization
+- en-US
+- zh-HANS
 
-Unofficial Custom Assets are highly experimental. They WILL crash your game at some point or throw errors. Create redundant copies of your savefiles and use at your own risk. There has not been a lot of testing done on custom assets, and I'm publishing this project to get feedback from the community.
+## How to Use
+1. Install this mod to load the assets.
+2. Place the Modular Subway Station on an open space.
+3. Upgrade the Modular Subway Station with track installations.
+4. Place a Subway entrance next to nearby roads.
+5. Use pedestrian paths to connect the sidewalk of the Subway entrance to the sidewalk next to the Modular Subway Station 
+  (make sure it is fully connected, not just adjacent).  
 
-## Requirements
-- Modding Toolchain Installed
-- Finished Assets (.Prefab and .Prefab.cid file, option Thumbnail files)
+- You can overlap or interlace multiple Modular Subway Stations for transfer purposes. 
+- You can also place multiple Subway entrances for several entry and exit points, or even use them as pedestrian underpasses.
 
-## Creating your Asset Pack
+## Acknowledgment
+Special thanks to Konsi for the asset loading framework.
 
-1. Clone the repository OR Create a repository based on this ("Use this template", green button)
-2. Open the repository with any IDE (Visual Studio, Rider)
-   2A. If you are using an alternative Cities Skylines II installation path, enter it in the CustomAssetPack.csproj-file under "CustomManagedPath"
-3. Put the assets you want to add into the "Resources/assets" folder in the solution explorer (subfolders allowed)
-4. Edit the localization file "en-US.json" to include your assets. Otherwise, they will have missing localization
-5. Add thumbnails to your assets. Make sure the icon path is set like this `coui://customassets/PackName/CarProp.png`
-6. Click on the Build Symbol (Hammer) at the top to build your project. This will load the assets into your local mods folder
-
-## Publishing your Asset Pack
-
-To publish your mod you have to do the following steps:
-1. Edit Properties/PublishConfiguration.xml
-2. Edit DisplayName, ShortDescription, LongDescription and Tag
-3. Replace the thumbnail.png file by the thumbnail for your Asset Pack
-4. From within your IDE select the Run Configuration "Publish New Mod"
-
-
-## Support and Contact
-Contact me on Discord Konsi#1337 or create an issue on this repository for help. There will also be a support discord environment.
+## More
+If you want to create a similar asset pack, please use this template£ºhttps://github.com/kosch104/CS2-CustomAssetPack

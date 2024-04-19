@@ -1,4 +1,22 @@
 {
-  "Assets.NAME[CarProp]": "Example Name",
-  "Assets.DESCRIPTION[CarProp]": "Example Description"
+  "Assets.NAME[MSS_AddSubwayTracks_20]": "AddSubway Tracks (-20m)",
+  "Assets.DESCRIPTION[MSS_AddSubwayTracks_20]": "The track installation upgrade for the Modular Subway Station offers different height options.",
+
+  "Assets.NAME[MSS_AddSubwayTracks_30]": "AddSubway Tracks (-30m)",
+  "Assets.DESCRIPTION[MSS_AddSubwayTracks_30]": "The track installation upgrade for the Modular Subway Station offers different height options.",
+
+  "Assets.NAME[MSS_AddSubwayTracks_40]": "AddSubway Tracks (-40m)",
+  "Assets.DESCRIPTION[MSS_AddSubwayTracks_40]": "The track installation upgrade for the Modular Subway Station offers different height options.",
+
+  "Assets.NAME[MSS_AddSubwayTracks_50]": "AddSubway Tracks (-50m)",
+  "Assets.DESCRIPTION[MSS_AddSubwayTracks_50]": "The track installation upgrade for the Modular Subway Station offers different height options.",
+
+  "Assets.NAME[MSS_ConcreteUpgrade]": "Concrete Upgrade",
+  "Assets.DESCRIPTION[MSS_ConcreteUpgrade]": "Lay a layer of concrete flooring.",
+
+  "Assets.NAME[MSS_ModularSubwayStation]": "Modular Subway Station",
+  "Assets.DESCRIPTION[MSS_ModularSubwayStation]": "The Modular Subway Station can be freely assembled using the AddSubway Tracks upgrade in combination with Subway Entrances, allowing for overlapping or interlacing placement.",
+
+  "Assets.NAME[MSS_SubwayEntrance]": "Subway Entrance",
+  "Assets.DESCRIPTION[MSS_SubwayEntrance]": "Subway Entrances provide entry and exit points for the Modular Subway Station and can also function as pedestrian underpasses."
 }

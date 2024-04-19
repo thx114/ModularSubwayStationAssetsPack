@@ -1,0 +1,22 @@
+{
+  "Assets.NAME[MSS_AddSubwayTracks_20]": "加设地铁轨道 (-20m)",
+  "Assets.DESCRIPTION[MSS_AddSubwayTracks_20]": "模块化地铁的轨道加设升级，有不同高度选择",
+
+  "Assets.NAME[MSS_AddSubwayTracks_30]": "加设地铁轨道 (-30m)",
+  "Assets.DESCRIPTION[MSS_AddSubwayTracks_30]": "模块化地铁的轨道加设升级，有不同高度选择",
+
+  "Assets.NAME[MSS_AddSubwayTracks_40]": "加设地铁轨道 (-40m)",
+  "Assets.DESCRIPTION[MSS_AddSubwayTracks_40]": "模块化地铁的轨道加设升级，有不同高度选择",
+
+  "Assets.NAME[MSS_AddSubwayTracks_50]": "加设地铁轨道 (-50m)",
+  "Assets.DESCRIPTION[MSS_AddSubwayTracks_50]": "模块化地铁的轨道加设升级，有不同高度选择",
+
+  "Assets.NAME[MSS_ConcreteUpgrade]": "水泥升级",
+  "Assets.DESCRIPTION[MSS_ConcreteUpgrade]": "铺一层水泥地面",
+
+  "Assets.NAME[MSS_ModularSubwayStation]": "模块化地铁站",
+  "Assets.DESCRIPTION[MSS_ModularSubwayStation]": "模块化地铁站，可使用 加设地铁轨道 升级 与 地铁口 的组合来自由组装地铁，可交叉/重叠摆放",
+
+  "Assets.NAME[MSS_SubwayEntrance]": "地铁口",
+  "Assets.DESCRIPTION[MSS_SubwayEntrance]": "地铁口，为 模块化地铁站 提供出入口，也可作为过街地道"
+}

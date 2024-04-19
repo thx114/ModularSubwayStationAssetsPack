@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="clip-LargeRoad8lanes">
+   <rect height="64" id="svg_1" width="64"/>
+  </clipPath>undefined</defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <polyline fill="none" id="svg_17" opacity="0.5" points="9.03616 5.97235 8.86219 6.96549 8.69062 7.86132 8.61571 8.6791 8.46874 9.5976" stroke-linecap="round"/>
+  <g clip-path="url(#clip-MediumRoadOneway)" id="svg_2">
+   <path d="m1246.65,-1111.52l11.31,-6.69l-11.31,6.69z" data-name="Path 2191" fill="#bfbfbf" id="svg_24" transform="translate(-1201.93 1152.9)"/>
+   <path d="m7.67,28l25.71,17.78l25.53,-9.66l-27.22,-17.18l-24.03,9.06z" data-name="Path 2211" fill="#bfbfbf" id="svg_28"/>
+  </g>
+ </g>
+</svg>
