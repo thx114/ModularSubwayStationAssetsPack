@@ -1,0 +1,22 @@
+{
+  "Assets.UPGRADE_NAME[MSS_AddSubwayTracks_20]": "지하철 선로 (-20m)",
+  "Assets.UPGRADE_DESCRIPTION[MSS_AddSubwayTracks_20]]": "모듈형 지하철 역의 선로 설치 업그레이드는 다양한 높이 옵션을 제공합니다.",
+
+  "Assets.UPGRADE_NAME[MSS_AddSubwayTracks_30]": "지하철 선로 (-30m)",
+  "Assets.UPGRADE_DESCRIPTION[MSS_AddSubwayTracks_30]": "모듈형 지하철 역의 선로 설치 업그레이드는 다양한 높이 옵션을 제공합니다.",
+
+  "Assets.UPGRADE_NAME[MSS_AddSubwayTracks_40]": "지하철 선로 (-40m)",
+  "Assets.UPGRADE_DESCRIPTION[MSS_AddSubwayTracks_40]": "모듈형 지하철 역의 선로 설치 업그레이드는 다양한 높이 옵션을 제공합니다.",
+
+  "Assets.UPGRADE_NAME[MSS_AddSubwayTracks_50]": "지하철 선로 (-50m)",
+  "Assets.UPGRADE_DESCRIPTION[MSS_AddSubwayTracks_50]": "모듈형 지하철 역의 선로 설치 업그레이드는 다양한 높이 옵션을 제공합니다.",
+
+  "Assets.UPGRADE_NAME[MSS_ConcreteUpgrade]": "콘크리트 업그레이드",
+  "Assets.UPGRADE_DESCRIPTION[MSS_ConcreteUpgrade]": "콘크리트 지상 표면을 설치합니다.",
+
+  "Assets.NAME[MSS_ModularSubwayStation]": "모듈 지하철역",
+  "Assets.DESCRIPTION[MSS_ModularSubwayStation]": "모듈 지하철역은 '지하철 선로 추가 업그레이드'를 통해 자유롭게 조립할 수 있으며 교차, 인터레이스 배치 또한 가능합니다.",
+
+  "Assets.NAME[MSS_SubwayEntrance]": "지하철 입구",
+  "Assets.DESCRIPTION[MSS_SubwayEntrance]": "지하철 입구는 모듈 지하철역 입출구 역할과 지하 보행자 포장도로 기능을 제공합니다."
+}
